@@ -1,8 +1,8 @@
 <h2> Hi there! I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me </h3>
 
-- I'm a full-stack developer passionate about learning more about the web and its applications. I'm currently learning  React.js and Next.js
+- I'm a full-stack developer currently living in Toronto, Canada. My latest project [EasyGraphs](https://Easy-graphs.vercel.app) built using Next.js leveraging SSR authentication helps users create dashboards with graphs and visuals. 
 
 <h3>🛠 Tech Stack</h3>
 
