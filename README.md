@@ -2,20 +2,16 @@
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> About Me </h3>
 
-- I'm a full-stack developer currently living in Toronto, Canada. My latest project [EasyGraphs](https://Easy-graphs.vercel.app) built using Next.js leveraging SSR aims to help  users create dashboards with graphs and visuals. 
+- I'm a full-stack developer currently living in Toronto, Canada. My latest full-stack project [EasyGraphs](https://Easy-graphs.vercel.app) built using Next.js leveraging SSR aims to help users create dashboards with graphs and visuals. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
+- 💻 &nbsp; React.js | Next.js 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js
+- 🛢 &nbsp; Supabase | Firebase | Mongoose
+- 🛠 &nbsp; Material-Ui | Bootstrap | Highcharts | lightweight-charts | 
+- 🔧 &nbsp; Visual Studio code | Git
 <br>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
 
