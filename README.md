@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ibrahim. <img src="https://github.com/souvikguria98/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
