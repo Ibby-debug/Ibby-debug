@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Ibrahim. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif" width="500"/>
-
+<img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif4.gif?raw=true" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
