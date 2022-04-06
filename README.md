@@ -6,7 +6,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; React.js | Next.js 
+- 💻 &nbsp; React.js | Next.js | Electron
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js
 - 🛢 &nbsp; Supabase | Firebase | Mongoose
 - 🛠 &nbsp; Material-Ui | Bootstrap | Highcharts | lightweight-charts | 
