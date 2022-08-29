@@ -9,7 +9,7 @@
 - 💻 &nbsp; React.js | Next.js | Electron.js
 - 🌐 &nbsp; JavaScript | Node.js | Solidity
 - 🛢 &nbsp; Supabase | Firebase | Mongoose
-- 🛠 &nbsp; mui | Bootstrap | Highcharts | lightweight-charts | 
+- 🛠 &nbsp; mui | Bootstrap | Highcharts | lightweight-charts 
 - 🔧 &nbsp; Visual Studio code | git
 <br>
 
