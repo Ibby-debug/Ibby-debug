@@ -10,7 +10,7 @@
 - 🌐 &nbsp; JavaScript | Node.js | Solidity
 - 🛢 &nbsp; Supabase | Firebase | Mongoose
 - 🛠 &nbsp; mui | Bootstrap | Highcharts | lightweight-charts | 
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | git
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
