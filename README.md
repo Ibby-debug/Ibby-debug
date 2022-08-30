@@ -2,7 +2,9 @@
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> About Me </h3>
 
-- I'm a full-stack developer currently based in Toronto, Canada. 
+| Hi: I'm a full-stack developer currently based in Toronto, Canada. |
+| --- |
+
 
 <h3>🛠 Tech Stack</h3>
 
