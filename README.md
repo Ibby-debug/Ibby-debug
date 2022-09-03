@@ -9,9 +9,7 @@
 
 - 💻 &nbsp; React.js | Next.js | Electron.js
 - 🌐 &nbsp; JavaScript | Node.js | Solidity
-- 🛢 &nbsp; Supabase | Firebase | Mongoose
-- 🛠 &nbsp; mui | Bootstrap | Highcharts | lightweight-charts 
-- 🔧 &nbsp; Visual Studio code | git
+- 🛢 &nbsp; Ui-libraries | Graph Libraries
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
