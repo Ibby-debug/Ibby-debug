@@ -10,7 +10,7 @@
 <h3>🛠 Tech I Like using </h3>
 
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind
-- :factory: Back-end: &nbsp;  Node.js | Solidity 
+- :factory: Back-end: &nbsp;  expressjs | Solidity 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
