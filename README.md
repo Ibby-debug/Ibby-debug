@@ -6,7 +6,7 @@
  
  At the moment, building full-stack dapps ( **.sol** & **.js**  )
 
-Latest side-project [RaffleMania](https://github.com/IbrahimSam96/rafflema) won a prize at Polygon BUIDL IT : Summer 2022! 
+Latest side-project [RaffleMania](https://github.com/IbrahimSam96/rafflemania.com) won a prize at Polygon BUIDL IT : Summer 2022! 
 
 <h3>🛠 Tech I Like using </h3>
 
