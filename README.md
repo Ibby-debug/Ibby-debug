@@ -6,6 +6,7 @@
  
  At the moment, building full-stack dapps ( **.sol** & **.js**  )
 
+Latest side-project 
 
 <h3>🛠 Tech I Like using </h3>
 
