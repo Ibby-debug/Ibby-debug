@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> A Little About Me  :shipit:</h3>
 
- I'm a full-stack developer based in Toronto, Canada. Always keeping it 💯 with learning new ways to build cool applications. 
+ I'm a full-stack developer based in Toronto, Canada. 
  
  At the moment, building full-stack dapps ( **.sol** & **.js**  )
 
