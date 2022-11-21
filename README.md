@@ -4,7 +4,7 @@
 
  I'm a full-stack developer based in Toronto, Canada. 
  
- At the moment, building full-stack dapps ( **.sol** & **.js/.ts**  )
+ At the moment, building full-stack dapps ( **.sol** & **.js - .ts**  )
 
 Latest side-project [RaffleMania](https://github.com/IbrahimSam96/rafflemania) won a prize at Polygon BUIDL IT : Summer 2022! 
 
