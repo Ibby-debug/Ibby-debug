@@ -6,12 +6,16 @@
  
  At the moment, building full-stack dapps ( **.sol** & **.js, .ts**  )
 
-Latest side-project [RaffleMania](https://github.com/IbrahimSam96/rafflemania) won a prize at Polygon BUIDL IT : Summer 2022! 
+<h3>2X winner in web3 hacakthons</h3>  
+
+- Polygon BUIDL IT: Summer 2022! : [RaffleMania](https://github.com/IbrahimSam96/rafflemania)  
+
+- Tron Hackathon Season 3: [Paylock](https://github.com/IbrahimSam96/paylock)
 
 <h3>🛠 Tech I Like using </h3>
 
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind
-- :factory: Back-end: &nbsp;  Expressjs | Solidity 
+- :factory: Back-end: &nbsp;  Node.js | Expressjs | Solidity | Hardhat | Ethers.js
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
