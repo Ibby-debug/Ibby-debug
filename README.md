@@ -15,7 +15,8 @@
 <h3>🛠 Tech I Like using </h3>
 
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind
-- :factory: Back-end: &nbsp;  Node.js | Expressjs | Solidity | Hardhat | Ethers.js
+- :factory: Back-end: &nbsp;  Node.js | Expressjs 
+- 🧾 Smart Contracts: Solidity | Hardhat | Ethers.js
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
