@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech I Like using </h3>
 
-- 💻 Front-end:&nbsp; React.js | Next.js | Tailwind
+- 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs 
 - 🧾 Smart Contracts: Solidity | Hardhat | Ethers.js
 <br>
