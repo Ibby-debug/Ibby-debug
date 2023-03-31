@@ -6,11 +6,13 @@
  
  At the moment, building full-stack dapps ( **.sol** & **.js, .ts**  )
 
-<h3>2X winner in web3 hacakthons</h3>  
+<h3>3X winner in web3 hacakthons</h3>  
 
 - Polygon BUIDL IT: Summer 2022! : [RaffleMania](https://github.com/IbrahimSam96/rafflemania)  
 
 - Tron Hackathon Season 3: [Paylock](https://github.com/IbrahimSam96/paylock)
+
+- ETHGlobal | Scaling Ethereum : [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
 
 <h3>🛠 Tech I Like using </h3>
 
