@@ -8,11 +8,12 @@
 
 <h3>3X winner in web3 hacakthons</h3>  
 
+- ETHGlobal | Scaling Ethereum : [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
+- 
+- Tron Hackathon Season 3 2023: [Paylock](https://github.com/IbrahimSam96/paylock)
+- 
 - Polygon BUIDL IT: Summer 2022! : [RaffleMania](https://github.com/IbrahimSam96/rafflemania)  
 
-- Tron Hackathon Season 3: [Paylock](https://github.com/IbrahimSam96/paylock)
-
-- ETHGlobal | Scaling Ethereum : [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
 
 <h3>🛠 Tech I Like using </h3>
 
