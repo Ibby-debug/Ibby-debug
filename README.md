@@ -20,7 +20,7 @@
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI 
 - :factory: Back-end: &nbsp;  Node.js | Expressjs 
 - 🧾 Smart Contracts: Solidity | Hardhat | Ethers.js
-- Micro-services: Azure | Firebase | AWS
+- 🕹 Micro Services: Azure | Firebase | AWS
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
