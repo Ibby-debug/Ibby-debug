@@ -17,7 +17,7 @@
 
 <h3>🛠 Tech I Like using </h3>
 
-- 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI 
+- 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI + Mapbox-gl.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs 
 - 🧾 Smart Contracts: Solidity | Hardhat | Ethers.js
 - 🕹 Micro Services: Azure | Firebase | AWS
