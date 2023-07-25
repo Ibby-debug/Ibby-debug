@@ -25,7 +25,7 @@ I have been working on multiple short experiments - kickstarting scalable web2 a
 
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI + Mapbox-gl.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs 
-- 🧾 Smart Contracts: Solidity | Hardhat | Ethers.js
+- 🧾 Web3: Solidity | Hardhat | Ethers.js | RainbowKit
 - 🕹 Micro Services: Azure | Firebase | AWS
 <br>
 
