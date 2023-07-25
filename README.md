@@ -4,9 +4,9 @@
 
  I'm a full-stack developer based in Toronto, Canada. 
  
- 🧑🏻‍💼: Interested in working roles that allow me to develop and achieve my goals! 
+ 🧑🏻‍💼: Looking for roles and opportunities working with fast growing startups
  
-I have been working on multiple short experiments - kickstarting scalable web2 and web3 apps. 
+I have been launching multiple short experiments - kickstarting web2 and web3 apps. 
 
 🎯 Target: ✔️5% success rate on a 100 projects/year
 
