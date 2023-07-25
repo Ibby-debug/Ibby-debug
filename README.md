@@ -2,11 +2,11 @@
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> A Little About Me  :shipit:</h3>
 
- I'm a full-stack developer based in Toronto, Canada. 
+I've been in Toronto since 2015. Graduated from a business program and started writing code.  
+
+🧑🏻‍💼: I'm on the lookout for roles and opportunities to work with fast-growing startups.
  
- 🧑🏻‍💼: Looking for roles and opportunities working with fast growing startups
- 
-I have been launching multiple short experiments - kickstarting web2 and web3 apps. 
+Currently, I'm testing launching multiple short experiments - kickstarting web2 & web3 apps. 
 
 🎯 Target: ✔️5% success rate on a 100 projects/year
 
@@ -26,7 +26,7 @@ I have been launching multiple short experiments - kickstarting web2 and web3 ap
 <h3>🛠 Tech I Like using </h3>
 
 - 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI + Mapbox-gl.js
-- :factory: Back-end: &nbsp;  Node.js | Expressjs 
+- :factory: Back-end: &nbsp;  Node.js | Expressjs | GraphQL 
 - 🧾 Web3: Solidity | Hardhat | Ethers.js | RainbowKit
 - 🕹 Micro Services: Azure | Firebase | AWS
 <br>
