@@ -4,7 +4,11 @@
 
  I'm a full-stack developer based in Toronto, Canada. 
  
- At the moment, building full-stack dapps ( **.sol** & **.js, .ts**  )
+I have been working on multiple short experiments - kickstarting scalable web2 and web3 apps. 
+
+🎯Target: ✔️5% success rate on a 100 projects a year; 
+
+🚧 Progress: Building 2 prodcuts concurrently . Shoqaq.jo and Foodio.  
 
 <h3>3X winner in web3 hacakthons</h3>  
 
