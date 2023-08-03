@@ -1,10 +1,8 @@
-<h2> Hi there! I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
+<h2> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 <h3> A Little About Me  :shipit:</h3>
 
 I've been in Toronto since 2015. Graduated from a business program and started writing code.  
-
-🧑🏻‍💼: I'm on the lookout for roles and opportunities to work with fast-growing startups.
  
 Currently, I'm testing launching multiple short experiments - kickstarting web2 & web3 apps. 
 
