@@ -23,10 +23,10 @@ Currently, I'm testing launching multiple short experiments - kickstarting web2 
 
 <h3>🛠 Tech I Like using </h3>
 
-- 💻 Front-end:&nbsp; React.js | Next.js | Tailwind | Three.js + Highcharts + Material UI + Mapbox-gl.js
+- 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | react-three-fiber + Highcharts + Material UI + Mapbox-gl.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs | GraphQL 
-- 🧾 Web3: Solidity | Hardhat | Ethers.js | RainbowKit
-- 🕹 Micro Services: Azure | Firebase | AWS
+- 🧾 Web3: Solidity | Hardhat | wagmi |  ethers | RainbowKit
+- 🕹 Micro Services: Azure Devops/storage | Firebase(All-services) | AWS (Lambda)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
