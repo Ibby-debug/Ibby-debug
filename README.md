@@ -12,8 +12,10 @@ Currently, I'm testing launching multiple short experiments - kickstarting web2 
 
 - Shoqaq.jo and Foodio.  
 
-<h3>3X winner in web3 hacakthons</h3>  
+<h3>4X winner in web3 hacakthons</h3>  
 
+- ETHGlobal | Super Hack 2023 : [Tanjiro Osegi](https://github.com/IbrahimSam96/tanjiro)
+  
 - ETHGlobal | Scaling Ethereum 2023 : [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
 
 - Tron Hackathon Season 3 | 2023: [Paylock](https://github.com/IbrahimSam96/paylock)
