@@ -8,7 +8,7 @@ Currently, I'm testing launching multiple short experiments - kickstarting web2 
 
 🎯 Target: ✔️5% success rate on a 100 projects/year
 
-🚧 Progress: Building 2 prodcuts concurrently:
+🚧 Progress: Building 2 prodcuts concurrently
 
 <h3>4X winner in web3 hacakthons</h3>  
 
