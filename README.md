@@ -10,8 +10,6 @@ Currently, I'm testing launching multiple short experiments - kickstarting web2 
 
 🚧 Progress: Building 2 prodcuts concurrently:
 
-- Shoqaq.jo and Foodio.  
-
 <h3>4X winner in web3 hacakthons</h3>  
 
 - ETHGlobal | Super Hack 2023 : [Tanjiro Osegi](https://github.com/IbrahimSam96/tanjiro)
