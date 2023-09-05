@@ -1,14 +1,11 @@
-<h2> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
+<h3 align="center"> Web Developer living in Toronto ᴄᴀ  </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ibrahimsam96&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahimsam96" /> </p>
+<p align="left"> <a href="https://twitter.com/dev_Jdeed" target="blank"><img src="https://img.shields.io/twitter/follow/dev_Jdeed?logo=twitter&style=for-the-badge" alt="dev_Jdeed" /></a> </p>
+
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
-<h3> A Little About Me  :shipit:</h3>
 
-I've been in Toronto since 2015. Graduated from a business program and started writing code.  
- 
-Currently, I'm testing launching multiple short experiments - kickstarting web2 & web3 apps. 
-
-🎯 Target: ✔️5% success rate on a 100 projects/year
-
-🚧 Progress: Building 2 prodcuts concurrently
 
 <h3>4X winner in web3 hacakthons</h3>  
 
@@ -23,9 +20,9 @@ Currently, I'm testing launching multiple short experiments - kickstarting web2 
 
 <h3>🛠 Tech I Like using </h3>
 
-- 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | react-three-fiber + Highcharts + Material UI + Mapbox-gl.js
+- 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | Material UI | react-three-fiber | Highcharts | Mapbox-gl.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs | GraphQL 
-- 🧾 Web3: Solidity | Hardhat | wagmi |  ethers | RainbowKit
+- 🧾 Web3: Solidity | Hardhat | viem | wagmi |  ethers | RainbowKit
 - 🕹 Micro Services: Azure Devops/storage | Firebase(All-services) | AWS (Lambda)
 <br>
 
