@@ -22,7 +22,7 @@
 
 - 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | Material UI | react-three-fiber | Highcharts | Mapbox-gl.js
 - :factory: Back-end: &nbsp;  Node.js | Expressjs | GraphQL 
-- 🧾 Web3: Solidity | Hardhat | viem | wagmi |  ethers | RainbowKit
+- 🧾 Web3: Foundry | Hardhat | viem | wagmi |  ethers | RainbowKit
 - 🕹 Micro Services: Azure Devops/storage | Firebase(All-services) | AWS (Lambda)
 <br>
 
