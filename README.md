@@ -1,5 +1,6 @@
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
 <h3 align="center"> Web Developer living in Toronto ᴄᴀ  </h3>
+<h3 align="center"> I specialize in getting things done!</h3>
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
@@ -23,11 +24,12 @@
 
 <h3>🛠 Tech I Like using </h3>
 
-- 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | Material UI | react-three-fiber | Highcharts | Mapbox-gl.js
+- 💻 Front-end:&nbsp; React.js | Next.js | TailwindCSS | Material UI | react-three-fiber | Highcharts | Mapbox-gl.js | etc..
 - :factory: Back-end: &nbsp;  Node.js | Expressjs | GraphQL 
 - 🧾 Web3: Foundry | Hardhat | viem | wagmi |  ethers | RainbowKit
 - 🕹 Micro Services: Azure Devops/storage | Firebase(All-services) | AWS (Lambda)
 <br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimsam96&show_icons=true&theme=radical)
 
