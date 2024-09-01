@@ -11,11 +11,13 @@
 <img align="right" alt="GIF" src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/gif3.gif?raw=true" width="500"/>
 
 
-<h3>4X winner in web3 hacakthons</h3>  
+<h3>5X winner in web3 hacakthons</h3>  
 
-- ETHGlobal | Super Hack 2023 : [Tanjiro Osegi](https://github.com/IbrahimSam96/tanjiro)
+- ZKHACK | MONTREAL 2024 : Integrated a remote and integrated it with my EVM contract!   
+
+- ETHGlobal | Super Hack 2023 : Japanese Learning Game (Inspired by WawaSensei) [Tanjiro Osegi](https://github.com/IbrahimSam96/tanjiro)
   
-- ETHGlobal | Scaling Ethereum 2023 : [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
+- ETHGlobal | Scaling Ethereum 2023 : NFT Gallery Show for APE NFT Holders [BAYC Gallery](https://github.com/IbrahimSam96/ApesGallery)
 
 - Tron Hackathon Season 3 | 2023: [Paylock](https://github.com/IbrahimSam96/paylock)
 
