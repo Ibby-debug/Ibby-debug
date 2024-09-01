@@ -13,7 +13,7 @@
 
 <h3>5X winner in web3 hacakthons</h3>  
 
-- ZKHACK | MONTREAL 2024 : Integrated a remote and integrated it with my EVM contract!   
+- ZKHACK | MONTREAL 2024 : Integrated a BONSAI remote prover and and onchain-verifier it with my EVM contract!   
 
 - ETHGlobal | Super Hack 2023 : Japanese Learning Game (Inspired by WawaSensei) [Tanjiro Osegi](https://github.com/IbrahimSam96/tanjiro)
   
