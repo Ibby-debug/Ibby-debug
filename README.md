@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
-<h3 align="center"> Web Developer living in Toronto ᴄᴀ  </h3>
+<h3 align="center"> Software Developer living in between Toronto - Montreal ᴄᴀ  </h3>
 <h3 align="center"> I specialize in getting things done!</h3>
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
