@@ -34,6 +34,7 @@
 
 
 <h3>5X winner in web3 hacakthons</h3>  
+- ZKHACK | MONTREAL 202 | - ETHGlobal | Super Hack 2023 | - ETHGlobal | Scaling Ethereum 2023 | Tron Hackathon Season 3 | 2023 | Polygon BUIDL IT: Summer 2022!
 
 - ZKHACK | MONTREAL 2024 : Integrated a BONSAI remote prover and and onchain-verifier it with my EVM contract!   
 
