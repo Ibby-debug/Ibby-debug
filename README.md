@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/dev_Jdeed" target="blank"><img src="https://img.shields.io/twitter/follow/dev_Jdeed?logo=twitter&style=for-the-badge" alt="dev_Jdeed" /></a> </p>
 </div>
 
-<h3 align="center"> Software Developer Toronto - Montreal ᴄᴀ  </h3>
+<h3 align="center"> Full-stack Developer Toronto - Montreal ᴄᴀ  </h3>
 
 <h2 style="text-align: center;"> Frontend </h2>
 
