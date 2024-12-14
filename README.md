@@ -12,7 +12,7 @@
 
 <h3 align="center"> Software Developer Toronto - Montreal ᴄᴀ  </h3>
 
-<h2 style="text-align: center;">💻 Frontend </h2>
+<h2 style="text-align: center;"> Frontend </h2>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="/TypeScript.svg" alt="TypeScript Logo" width="50" title="TypeScript Logo">
@@ -21,14 +21,14 @@
   <img src="/Tailwind.svg" alt="Tailwind CSS Logo" width="50" title="Tailwind CSS Logo">
   <img src="/MaterialUI.svg" alt="Material-UI Logo" width="50" title="Material-UI Logo">
 </div>
-<h2 style="text-align: center;"> :factory: Backend </h2>
+<h2 style="text-align: center;"> Backend </h2>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="/Nodejs.svg" alt="Nodejs" width="50" title="Nodejs Logo">
   <img src="/Prisma.svg" alt="Prisma Logo" width="50" title="Prisma Logo">
   <img src="/GraphQL.svg" alt="GraphQL Logo" width="50" title="GraphQL Logo">
 </div>
 
-<h2 style="text-align: center;"> :factory: Contracts </h2>
+<h2 style="text-align: center;"> Contracts </h2>
 <img src="/Solidity.svg" alt="Solidity Logo" width="50" title="Solidity Logo">
 
 
