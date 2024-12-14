@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
 
+<h3 align="center"> Full-stack Developer Toronto - Montreal ᴄᴀ  </h3>
+
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -10,7 +12,6 @@
 <p align="left"> <a href="https://twitter.com/dev_Jdeed" target="blank"><img src="https://img.shields.io/twitter/follow/dev_Jdeed?logo=twitter&style=for-the-badge" alt="dev_Jdeed" /></a> </p>
 </div>
 
-<h3 align="center"> Full-stack Developer Toronto - Montreal ᴄᴀ  </h3>
 
 <h2 style="text-align: center;"> Frontend </h2>
 
