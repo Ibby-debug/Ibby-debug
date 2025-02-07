@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ibrahimsam96&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahimsam96" /> </p>
 
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/IbrahimSam96/IbrahimSam96/blob/master/Hi.gif" width="25"></h2>
-<h3 align="center"> I build fullstack SPA(s) for fun using Next.js/Typescript. Crypto builder</h3> 
+<h3 align="center"> I build fullstack SPA(s) for fun using Next.js/Typescript</h3> 
 
 <h3 align="center">  Toronto - Montreal ᴄᴀ  </h3> 
 
