@@ -24,9 +24,4 @@
 <br/>
 <img align="right" alt="GIF" src="https://github.com/Ibby-debug/Ibby-debug/blob/master/gif3.gif?raw=true" width="500"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibby-debug&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibby-debug&show_icons=true&theme=radical)
-
 
