@@ -9,6 +9,12 @@
 <br/>
 
 
+<h3>Creative Side Quests</h3> 
+- [Space Plinko](https://moonplinko.vercel.app/): My most recent project - built a gambling game    
+
+- [Perverted Hisoka](https://anime-scenes.vercel.app/): I was bored and looking for a job - built this anime scene from Hunter X Hunter  
+
+
 <h3>5X web3 hacakthon winner</h3>  
 
 - ZKHACK | MONTREAL 2024 : Integrated a BONSAI remote prover and and onchain-verifier it with my EVM contract!   
