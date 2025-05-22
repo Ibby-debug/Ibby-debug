@@ -11,7 +11,7 @@
 
 <h3>Creative Side Quests</h3> 
 
-- [Space Plinko](https://moonplinko.vercel.app): 3D Plinko Game - Upstash / Nextjs / Typescript / Circle Wallets / Supabase     
+- [Space Metal](https://spacemetal.vercel.app): 3D Plinko Game - Upstash / Nextjs / Typescript / Circle Wallets / Supabase     
 
 - [Perverted Hisoka](https://anime-scenes.vercel.app/): I was bored and looking for a job - built this anime scene from Hunter X Hunter  
 
