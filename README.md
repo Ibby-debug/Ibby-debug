@@ -20,7 +20,7 @@
 
 <h3>Favourite CDN's</h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
-  <img src="./vercel.svg" alt="Vercel" width="40"/>
+  <img src="./vercel.SVG" alt="Vercel" width="40"/>
   <img src="./cloudflare.webp" alt="Cloudflare" width="40"/>
 </div>
 
