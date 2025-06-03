@@ -12,22 +12,22 @@
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
   <img src="./Vite.svg" alt="Vite" width="40"/>
   <img src="./ReactJs.svg" alt="ReactJs" width="40"/>
-  <img src="./NextLogo.SVG" alt="NextJs" width="40"/>
-  <img src="./Typescript.svg" alt="Typescript" width="40"/>
+  <img src="./nextLogo.svg" alt="NextJs" width="40"/>
+  <img src="./typescript.svg" alt="Typescript" width="40"/>
   <img src="./Tailwind_CSS.svg" alt="Tailwind_CSS" width="40"/>
-  <img src="./Zustand.SVG" alt="Zustand" width="40"/>
+  <img src="./Zustand.svg" alt="Zustand" width="40"/>
 </div>
 
 <h3>Favourite CDN's</h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
-  <img src="./Vercel.svg" alt="Vercel" width="40"/>
+  <img src="./vercel.svg" alt="Vercel" width="40"/>
   <img src="./cloudflare.webp" alt="Cloudflare" width="40"/>
 </div>
 
 <h3>Favourite Web3 Stack</h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
   <img src="./ETH.svg" alt="Ethereum" width="40"/>
-  <img src="./Foundry.PNG" alt="Foundry-rs" width="100"/>
+  <img src="./Foundry.png" alt="Foundry-rs" width="100"/>
   <img src="./RainbowKit.svg" alt="RainbowKit" width="40"/>
 <img src="./Viem.png" alt="Viem Actions" width="40"/>
 
