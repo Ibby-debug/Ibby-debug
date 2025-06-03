@@ -13,7 +13,7 @@
   <img src="./Vite.svg" alt="Vite" width="40"/>
   <img src="./ReactJs.svg" alt="ReactJs" width="40"/>
   <img src="./nextLogo.svg" alt="NextJs" width="40"/>
-  <img src="./Typescript.svg" alt="Typescript" width="40"/>
+  <img src="./TypeScript.svg" alt="Typescript" width="40"/>
   <img src="./Tailwind_CSS.svg" alt="Tailwind_CSS" width="40"/>
   <img src="./Zustand.svg" alt="Zustand" width="40"/>
 </div>
