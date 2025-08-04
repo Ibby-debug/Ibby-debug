@@ -8,7 +8,7 @@
 
 <br/>
 
-<h3>Favourite Frontend Stack</h3> 
+<h3> Frontend </h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
   <img src="./Vite.svg" alt="Vite" width="40"/>
   <img src="./ReactJs.svg" alt="ReactJs" width="40"/>
@@ -18,13 +18,13 @@
   <img src="./Zustand.svg" alt="Zustand" width="40"/>
 </div>
 
-<h3>Favourite CDN's</h3> 
+<h3>CDN's</h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
   <img src="./vercel.SVG" alt="Vercel" width="40"/>
   <img src="./cloudflare.webp" alt="Cloudflare" width="40"/>
 </div>
 
-<h3>Favourite Web3 Stack</h3> 
+<h3> Web3 </h3> 
 <div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
   <img src="./ETH.svg" alt="Ethereum" width="40"/>
   <img src="./Foundry.png" alt="Foundry-rs" width="100"/>
