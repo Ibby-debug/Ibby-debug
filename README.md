@@ -34,17 +34,38 @@
 </div>
 
 
+<div style="display: flex; flex-direction: row; gap: 16px; align-items: center; align="center"">
 
-<h3>5X WEB3 hacakthon winner</h3>
+<h3 align="center">5X WEB3 Hackathon Winner</h3>
 
-- ZKHACK | MONTREAL 2024 : Connected RiskZero BONSAI remote prover and onchain EVM proof verifieng. 
+ <p align="center">- ZKHACK | MONTREAL 2024</p> 
 
-- ETHGlobal | Super Hack 2023 : Built A Japanese Learning Game (Inspired by WawaSensei) [Tanjiro Osegi](https://github.com/Ibby-debug/tanjiro)
-- ETHGlobal | Scaling Ethereum 2023 : TOP APE NFT Holders Gallery [BAYC Gallery](https://github.com/Ibby-debug/ApesGallery)
 
-- Tron Hackathon Season 3 | 2023: Paypal for Crypto [Paylock](https://github.com/Ibby-debug/paylock)
+<div align="center">
+  
+[- ETHGlobal | Super Hack 2023 : Tanjiro Osegi](https://tanjirojpn.vercel.app)
 
-- Polygon BUIDL IT: Summer 2022! : On-Chain Bullet Proof Smart Contract Lottery. [RaffleMania](https://github.com/Ibby-debug/rafflemania)
+</div>
+
+<div align="center">
+  
+  [- ETHGlobal | Scaling Ethereum 2023 : BAYC Gallery](https://github.com/Ibby-debug/ApesGallery)
+</div>
+
+<div align="center">
+  
+  [- Tron Hackathon Season 3 | 2023: EVM Crypto Payments  Paylock](https://github.com/Ibby-debug/paylock)
+</div>
+
+<div align="center">
+  
+</div>
+<div align="center">
+
+  [Polygon BUIDL IT: Summer 2022! : On-Chain Bullet Proof Smart Contract Lottery.RaffleMania](https://github.com/Ibby-debug/rafflemania)
+</div>
+ 
+</div>
 
 <br/>
 
